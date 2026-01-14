@@ -13,7 +13,7 @@ Note that the audio is not enabled automatically so it is probably worth noting 
 
 Note: be sure to unmute the audio
 
-https://user-images.githubusercontent.com/5617868/194554107-2bd89c77-2faf-4048-8c21-002b4b704611.mp4
+[demo](https://user-images.githubusercontent.com/5617868/194554107-2bd89c77-2faf-4048-8c21-002b4b704611.mp4)
 
 # Video of the Upload
 
